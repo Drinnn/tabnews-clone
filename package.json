@@ -1,0 +1,13 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-personal:Drinnn/tabnews-clone.git",
+  "author": "Drinnn <pedro_lontro@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
