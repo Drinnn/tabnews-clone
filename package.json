@@ -2,6 +2,9 @@
   "name": "tabnews-clone",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
   "repository": "git@github.com-personal:Drinnn/tabnews-clone.git",
   "author": "Drinnn <pedro_lontro@hotmail.com>",
   "license": "MIT",
